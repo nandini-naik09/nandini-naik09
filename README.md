@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nandini Naik
-- 👀 I’m interested in Reading books...
-- 🌱 I’m currently learning ReactJS...
-- 📫 How to reach me : naiknandini2020@gmail.com...
+- 👋 Hi, I’m Nandini Naik.
+- 👀 I’m interested in Reading books.
+- 🌱 My current focus is on learning ReactJS and practicing it.
+- 📫 How to reach me : naiknandini2020@gmail.com.
 
 <!---
 nandini-naik09/nandini-naik09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
