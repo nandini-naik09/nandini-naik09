@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kiran%20R-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandini-naik/)](https://www.linkedin.com/in/nandini-naik/) 
-[![GitHub Badge](https://img.shields.io/badge/-@KiranR-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/nandini-naik09)](https://github.com/nandini-naik09) 
+[![Linkedin Badge](https://img.shields.io/badge/-Nandini-Naik-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandini-naik/)](https://www.linkedin.com/in/nandini-naik/) 
+[![GitHub Badge](https://img.shields.io/badge/-@Nandini-Naik-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/nandini-naik09)](https://github.com/nandini-naik09) 
